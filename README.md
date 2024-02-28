@@ -16,5 +16,5 @@ InvalidOperationException: Cannot provide a value for property 'WeatherApi' on t
 2. Navigate to the repo directory
 3. `dotnet run --project .\BlazorWithRefit\`
 4. Open a browser and navigate to [https://localhost:7290](https://localhost:7290)
-5. Click the "Weather" click in the nav bar
+5. Click the "Weather" link in the nav bar
 
